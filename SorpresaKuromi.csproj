@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <UseWPF>false</UseWPF>
+    <RootNamespace>SorpresaKuromi</RootNamespace>
+    <AssemblyName>SorpresaKuromi</AssemblyName>
+  </PropertyGroup>
+
+</Project>
